@@ -56,7 +56,11 @@ Após realizar login com o usuário `problem_user`, o sistema permitiu o acesso,
 
 Após realizar login com o usuário `performance_glitch_user`, o sistema permitiu o acesso, porém apresentou lentidão no carregamento da interface — os elementos demoraram para aparecer ou responder.
 
-![CT04 - Lentidão após login]<img width="1915" height="1006" alt="ct-04-demora-site" src="https://github.com/user-attachments/assets/001ece69-ab35-4f98-9910-8f931a807007" />
+![CT04 - Lentidão após login]
+
+https://github.com/user-attachments/assets/a0f71b88-14dc-4918-af7d-d22bdd937991
+
+
 
 
 
