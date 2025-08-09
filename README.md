@@ -34,7 +34,7 @@ Validar o comportamento da tela de login com diferentes tipos de usuários e cen
 
 Após realizar o login com o usuário `standard_user`, o sistema redirecionou para a tela principal de compras, confirmando que o login foi bem-sucedido.
 
-![CT01 - Tela de produtos após login](<img width="1877" height="925" alt="ct01-login-sucesso" src="https://github.com/user-attachments/assets/a52129df-17d1-470b-84f8-fcf188d268f2" />)
+![CT01 - Tela de produtos após login]<img width="1877" height="925" alt="ct01-login-sucesso" src="https://github.com/user-attachments/assets/92e7fd12-524e-4ca9-acbb-19e27aad117f" />
 
 
 ## 📎 Evidência do Teste CT02
