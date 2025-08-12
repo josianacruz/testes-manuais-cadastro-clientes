@@ -62,7 +62,23 @@ Senha para todos: `secret_sauce`
 ---
 
 ### 📌 CT04 - Login com usuário com lentidão
-🎥 [Clique aqui para assistir à gravação do teste](https://github.com/user)
+🎥 [Clique aqui para assistir à gravação do teste](https://github.com/user-attachments/assets/a0f71b88-14dc-4918-af7d-d22bdd937991)
+
+---
+
+## 📂 Estrutura do Repositório
+📦 testes-manuais-swaglabs
+┣ 📜 README.md
+┗ 📂 evidencias
+
+yaml
+Copiar
+Editar
+
+---
+
+✍️ **Autor:** Josiana Cruz  
+📅 **Ano:** 2025
 
 
 
