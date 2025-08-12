@@ -82,6 +82,22 @@ Editar
 
 
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Fotos</title>
+</head>
+<body>
+    <h2>Galeria de Fotos</h2>
+    <ul>
+        <li><a href="[LINK_DA_IMAGEM_1](https://github.com/user-attachments/assets/92e7fd12-524e-4ca9-acbb-19e27aad117f)" target="_blank">📷 Foto 1</a></li>
+        <li><a href="LINK_DA_IMAGEM_2" target="_blank">📷 Foto 2</a></li>
+        <li><a href="LINK_DA_IMAGEM_3" target="_blank">📷 Foto 3</a></li>
+        <li><a href="LINK_DA_IMAGEM_4" target="_blank">📷 Foto 4</a></li>
+    </ul>
+</body>
+</html>
 
 
 
